@@ -27,6 +27,11 @@ p{
     height:50px;
 }
 
+body{
+    background-color:#782221;
+
+}
+
 #head{
     text-align:center;
 }
@@ -34,7 +39,4 @@ p{
 #contact{
     background-color:#2C1D27;
 }
-
-
-
 
