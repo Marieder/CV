@@ -7,6 +7,10 @@ h2{
     font-family:Lato;
 }
 
+h3{
+    background-color:#DBC2A4;
+}
+
 /*Images*/
 #profil_picture{
     width:100px;
