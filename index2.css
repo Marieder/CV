@@ -1,0 +1,7 @@
+#bottom_line :hover{
+    text-decoration: underline;
+}
+
+#social_network :hover{
+    opacity: 0.5;
+}
