@@ -30,6 +30,7 @@ footer{
     width:100px;
     height:100px;
     border-radius:100px;
+    box-shadow: 0px 0px 8px 10px #2C1D27;
 }
 
 #social_network{
