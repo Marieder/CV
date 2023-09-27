@@ -12,19 +12,6 @@ h3{
     background-color:#DBC2A4;
 }
 
-p{
-    font-family:Raleway;
-}
-
-body{
-    background-color:#782221;
-    width:1160px;
-}
-
-footer{
-    text-align:center;
-}
-
 /*Images*/
 #profil_picture{
     width:100px;
@@ -40,7 +27,6 @@ footer{
     display:inline;
 }
 
-/*Others*/
 
 #head{
     text-align:center;
@@ -76,4 +62,17 @@ a{
 
 #white{
     color:white;
+}
+
+p{
+    font-family:Raleway;
+}
+
+body{
+    background-color:#782221;
+    width:1160px;
+}
+
+footer{
+    text-align:center;
 }
