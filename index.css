@@ -64,15 +64,7 @@ a{
     color:white;
 }
 
-p{
-    font-family:Raleway;
-}
-
 body{
     background-color:#782221;
-    width:1160px;
-}
-
-footer{
-    text-align:center;
+    width: 1160px;
 }
