@@ -48,6 +48,10 @@ h3{
     width: 875px;
 }
 
+#align_left{
+    width:242px;
+}
+
 #indent{
     text-indent: 50px;
     color: white;
