@@ -28,14 +28,16 @@ h3{
 
 
 #head{
+    background-color: #782221;
     text-align:center;
     color:white;
+    margin: 0 0 0 0;
 }
 
 #contact{
     background-color:#2C1D27;
     text-align:center;
-    padding:30px;
+    padding:20px;
 }
 
 #align_right{
@@ -64,11 +66,15 @@ a{
 }
 
 body{
-    background-color:#782221;
     width: 1160px;
     margin: auto;
 }
 
+main{
+    background-color: #782221;
+}
+
 footer{
+    background-color: #782221;
     text-align: center;
 }
