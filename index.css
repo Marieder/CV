@@ -1,4 +1,4 @@
-/*Titre*/
+/*Titles*/
 h1{
     font-family:Lato;
 }
@@ -11,7 +11,7 @@ h3{
     background-color:#DBC2A4;
 }
 
-/*Images*/
+/*Pictures*/
 #profil_picture{
     width:100px;
     height:100px;
@@ -26,7 +26,7 @@ h3{
     display:inline;
 }
 
-
+/*ID*/
 #head{
     background-color: #782221;
     text-align:center;
@@ -70,6 +70,7 @@ a{
     color:white;
 }
 
+/*Semantics*/
 body{
     width: 1160px;
     margin: auto;
