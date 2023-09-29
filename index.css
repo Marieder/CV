@@ -40,14 +40,14 @@ h3{
     padding:20px;
 }
 
-#align_right{
+#container_right{
     background-color:white;
     padding:0 10px 5px 10px;
     margin:0 0 5px 20px;
     width: 875px;
 }
 
-#align_left{
+#container_left{
     width:242px;
 }
 
@@ -56,7 +56,7 @@ h3{
     color: white;
 }
 
-#info{
+#container{
     display: flex;
     flex-wrap: wrap;
 }
