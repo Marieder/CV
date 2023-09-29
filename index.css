@@ -1,14 +1,22 @@
 /*Titles*/
 h1{
-    font-family:Lato;
+    font-family:"Lato", sans-serif;
 }
 
 h2{
-    font-family:Lato;
+    font-family:"Lato", sans-serif;
 }
 
 h3{
     background-color:#DBC2A4;
+}
+
+p{
+    font-family: "Raleway",sans-serif;
+}
+
+ul{
+    font-family: "Raleway", sans-serif;
 }
 
 /*Pictures*/
