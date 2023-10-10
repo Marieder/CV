@@ -1,18 +1,36 @@
-/*Titles*/
+/*Police*/
+@font-face {
+    font-family: 'ralewayblack';
+    src: url('./font/raleway-black-webfont.woff2') format('woff2'),
+         url('./font/raleway-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Black.woff2') format('woff2'),
+        url('Lato-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
 h1{
-    font-family:"Lato", sans-serif;
+    font-family:'Lato', sans-serif;
 }
 
 h2{
-    font-family:"Lato", sans-serif;
+    font-family:'Lato', sans-serif;
 }
 
 h3{
+    font-family:'Lato', sans-serif;
     background-color:#DBC2A4;
 }
 
 p{
-    font-family: "Raleway",sans-serif;
+    font-family: 'ralewayblack', sans-serif;
 }
 
 ul{
@@ -79,6 +97,11 @@ a{
 }
 
 /*Semantics*/
+*{
+    box-sizing: border-box;
+    width: auto;
+}
+
 body{
     width: 1160px;
     margin: auto;
